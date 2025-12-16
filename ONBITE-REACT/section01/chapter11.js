@@ -10,7 +10,7 @@ console.log("호출 후");
 
 function getArea(width, height){
     
-    function another(){
+    function another(){     // 중첩 함수
         console.log("another");
     }
     another();

@@ -42,3 +42,4 @@ function calculate(num1, num2, operation){
 
 calculate(5, 3, add);
 calculate(5, 3, subtract);
+
